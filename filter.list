@@ -29,6 +29,6 @@ HOST-SUFFIX,tushuu.com,direct
 HOST-SUFFIX,kayege.com,direct
 HOST-SUFFIX,shouda8.com,direct
 HOST-SUFFIX,pglstatp-toutiao.com,reject
-HOST-SUFFIX,pangolin-sdk-toutiao.com.reject
+HOST-SUFFIX,pangolin-sdk-toutiao.com,reject
 HOST-SUFFIX,pstatp.com,reject
 
